@@ -1,0 +1,4 @@
+com/curd/vertx_app/model/Product.class
+com/curd/vertx_app/MainVerticle.class
+com/curd/vertx_app/controller/ProductController.class
+com/curd/vertx_app/service/ProductService.class
